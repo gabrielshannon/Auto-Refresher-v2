@@ -1,0 +1,12 @@
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #4CAF50; /* Green color for clicked button */
+  color: white;
+}
+
+button.clicked {
+  background-color: #4CAF50; /* Green color for clicked button */
+  color: white;
+}
